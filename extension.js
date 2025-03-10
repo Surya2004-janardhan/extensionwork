@@ -2,7 +2,7 @@ const vscode = require("vscode");
 const Groq = require("groq-sdk");
 
 const client = new Groq({
-  apiKey: "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", // Replace with your actual API key
+  apiKey: "your api key from groq-- enjoy there:/", // Replace with your actual API key
 });
 
 let timer;
