@@ -1,4 +1,5 @@
 .vscode/**
+.env
 .vscode-test/**
 test/**
 .gitignore
